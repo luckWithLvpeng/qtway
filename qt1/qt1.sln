@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt1", "qt1\qt1.vcxproj", "{29B90690-C342-4437-8ACA-AAD6EC589437}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt2", "..\qt2\qt2\qt2.vcxproj", "{56F05CB1-10F6-4C64-88FA-A554752DB65D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qlib3", "Qlib3\Qlib3.vcxproj", "{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B90690-C342-4437-8ACA-AAD6EC589437}.Debug|x64.ActiveCfg = Debug|x64
+		{29B90690-C342-4437-8ACA-AAD6EC589437}.Debug|x64.Build.0 = Debug|x64
+		{29B90690-C342-4437-8ACA-AAD6EC589437}.Release|x64.ActiveCfg = Release|x64
+		{29B90690-C342-4437-8ACA-AAD6EC589437}.Release|x64.Build.0 = Release|x64
+		{56F05CB1-10F6-4C64-88FA-A554752DB65D}.Debug|x64.ActiveCfg = Debug|x64
+		{56F05CB1-10F6-4C64-88FA-A554752DB65D}.Debug|x64.Build.0 = Debug|x64
+		{56F05CB1-10F6-4C64-88FA-A554752DB65D}.Release|x64.ActiveCfg = Release|x64
+		{56F05CB1-10F6-4C64-88FA-A554752DB65D}.Release|x64.Build.0 = Release|x64
+		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Debug|x64.ActiveCfg = Debug|x64
+		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Debug|x64.Build.0 = Debug|x64
+		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Release|x64.ActiveCfg = Release|x64
+		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+﻿  qt2.cpp
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+c:\users\lvpeng\qtworkspacse\qt2\qt2\qt2.h : warning C4828: 文件包含在偏移 0x1b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  qt2.vcxproj -> C:\Users\lvpeng\QTworkspacse\qt1\x64\Debug\qt2.exe
+  qt2.vcxproj -> C:\Users\lvpeng\QTworkspacse\qt1\x64\Debug\qt2.pdb (Full PDB)
