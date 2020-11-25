@@ -1,4 +1,2 @@
-﻿  qt1.cpp
-qt1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  qt1.vcxproj -> C:\Users\lvpeng\QTworkspacse\qt1\x64\Debug\qt1.exe
-  qt1.vcxproj -> C:\Users\lvpeng\QTworkspacse\qt1\x64\Debug\qt1.pdb (Full PDB)
+﻿  qt1.vcxproj -> C:\Users\lvpeng\QTworkspacse\qtway\qt1\x64\Debug\qt1.exe
+  qt1.vcxproj -> C:\Users\lvpeng\QTworkspacse\qtway\qt1\x64\Debug\qt1.pdb (Full PDB)

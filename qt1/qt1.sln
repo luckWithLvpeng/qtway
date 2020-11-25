@@ -7,7 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt1", "qt1\qt1.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt2", "..\qt2\qt2\qt2.vcxproj", "{56F05CB1-10F6-4C64-88FA-A554752DB65D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qlib3", "Qlib3\Qlib3.vcxproj", "{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "styles", "..\styles\styles.vcxproj", "{FC373CFA-5782-3049-9A91-0AA24D0B0F39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtWidget", "QtWidget\QtWidget.vcxproj", "{5B50AC02-4518-44F3-AAB6-98DC30B10294}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +25,14 @@ Global
 		{56F05CB1-10F6-4C64-88FA-A554752DB65D}.Debug|x64.Build.0 = Debug|x64
 		{56F05CB1-10F6-4C64-88FA-A554752DB65D}.Release|x64.ActiveCfg = Release|x64
 		{56F05CB1-10F6-4C64-88FA-A554752DB65D}.Release|x64.Build.0 = Release|x64
-		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Debug|x64.ActiveCfg = Debug|x64
-		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Debug|x64.Build.0 = Debug|x64
-		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Release|x64.ActiveCfg = Release|x64
-		{2DA347E7-F0AE-4EAE-AD99-372EC0EABE8C}.Release|x64.Build.0 = Release|x64
+		{FC373CFA-5782-3049-9A91-0AA24D0B0F39}.Debug|x64.ActiveCfg = Debug|x64
+		{FC373CFA-5782-3049-9A91-0AA24D0B0F39}.Debug|x64.Build.0 = Debug|x64
+		{FC373CFA-5782-3049-9A91-0AA24D0B0F39}.Release|x64.ActiveCfg = Release|x64
+		{FC373CFA-5782-3049-9A91-0AA24D0B0F39}.Release|x64.Build.0 = Release|x64
+		{5B50AC02-4518-44F3-AAB6-98DC30B10294}.Debug|x64.ActiveCfg = Debug|x64
+		{5B50AC02-4518-44F3-AAB6-98DC30B10294}.Debug|x64.Build.0 = Debug|x64
+		{5B50AC02-4518-44F3-AAB6-98DC30B10294}.Release|x64.ActiveCfg = Release|x64
+		{5B50AC02-4518-44F3-AAB6-98DC30B10294}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
